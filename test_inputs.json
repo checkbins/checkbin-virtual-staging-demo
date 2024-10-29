@@ -1,0 +1,78 @@
+[
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/1047851364006508590-1802590667.jpg",
+        "prompt": "a farmhouse interior with shiplap walls, oversized furniture, exposed beams, and distressed wood, creating a warm, rustic atmosphere reminiscent of rural homes"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/1047851364006508590-1802591061.jpg",
+        "prompt": "a bohemian (Boho) interior showcasing layered textiles, vibrant colors, vintage furniture, and globally-inspired decor, exuding eclectic creativity and personal expression"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/34275972-1060311173.jpg",
+        "prompt": "a scandinavian interior featuring white walls, wooden furniture, and cozy textiles, emboding minimalism with a focus on functionality and natural elements"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/34275972-1060318118.jpg",
+        "prompt": "a mid-century modern interior: Defined by teak wood, geometric patterns, bold colors, and low-profile designs, capturing the essence of 1950s simplicity and organic shapes."
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/35807076-1530263121.jpg",
+        "prompt": "a industrial interior with exposed brick, distressed wood, metal fixtures, and large windows, evoking a warehouse-like feel with raw, utilitarian elements"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/35807076-1530263389.jpg",
+        "prompt": "a transitional interior blending neutral palettes, comfortable furniture, and diverse textures like wood and fabric, offering a harmonious mix of modern and traditional styles"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/45921729-1769537003.jpg",
+        "prompt": "a traditional interior characterized by dark wood, ornate details, antique pieces, and elegant furnishings, bringing classic European-inspired comfort and timeless charm"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/45921729-1769537069.jpg",
+        "prompt": "a contemporary interior featuring smooth textures, geometric shapes, and a mix of industrial materials, combining evolving trends with sleek sophistication and contrasting elements"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/45921729-1769537264.jpg",
+        "prompt": "a modern interior defined by clean lines, neutral colors, open floor plans, and functional furniture, emphasizing minimalist aesthetics and form over function"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/52876467-1900153189.jpg",
+        "prompt": "A spacious, open-plan living area with a large sectional sofa and a fireplace."
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/596397416121345319-1432397006.jpg",
+        "prompt": "a farmhouse interior with shiplap walls, oversized furniture, exposed beams, and distressed wood, creating a warm, rustic atmosphere reminiscent of rural homes"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/596397416121345319-1848045431.jpg",
+        "prompt": "a bohemian (Boho) interior showcasing layered textiles, vibrant colors, vintage furniture, and globally-inspired decor, exuding eclectic creativity and personal expression"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/787920229028098684-1910853828.jpg",
+        "prompt": "a scandinavian interior featuring white walls, wooden furniture, and cozy textiles, emboding minimalism with a focus on functionality and natural elements"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/787920229028098684-1910853832.jpg",
+        "prompt": "a mid-century modern interior: Defined by teak wood, geometric patterns, bold colors, and low-profile designs, capturing the essence of 1950s simplicity and organic shapes."
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/853890551506118770-1935946968.jpg",
+        "prompt": "a industrial interior with exposed brick, distressed wood, metal fixtures, and large windows, evoking a warehouse-like feel with raw, utilitarian elements"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/947341193742760828-1786832409.jpg",
+        "prompt": "a transitional interior blending neutral palettes, comfortable furniture, and diverse textures like wood and fabric, offering a harmonious mix of modern and traditional styles"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/947341193742760828-1786836484.jpg",
+        "prompt":  "a traditional interior characterized by dark wood, ornate details, antique pieces, and elegant furnishings, bringing classic European-inspired comfort and timeless charm"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/947341193742760828-1786836840.jpg",
+        "prompt": "a contemporary interior featuring smooth textures, geometric shapes, and a mix of industrial materials, combining evolving trends with sleek sophistication and contrasting elements"
+    },
+    {
+        "image_url": "https://syntheticco.blob.core.windows.net/virtual-staging-demo/979084097065910076-1860656291.jpg",
+        "prompt": "a modern interior defined by clean lines, neutral colors, open floor plans, and functional furniture, emphasizing minimalist aesthetics and form over function"
+    }
+]
